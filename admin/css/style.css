@@ -1,0 +1,23 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.form-control {
+    border-radius: 25px;
+}
+
+.blog-card-text {
+    text-align: justify;
+}
+
+.start-left {
+    text-align: left;
+}
+
+.btn-group{
+    box-shadow: none;
+}
+
+.active {
+    font-weight: 500;
+}
